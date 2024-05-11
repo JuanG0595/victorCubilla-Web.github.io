@@ -1,0 +1,17 @@
+@media screen and (min-width: 769px){
+  .navbar__toggle-btn{
+    display: none;
+  }
+  .presentation-card__container{
+    width: 50%;
+  }
+  .presentation-card__header img{
+    width: 250px;
+    height: 250px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .navbar .show-menu{
+    display: none;
+  }
+}
